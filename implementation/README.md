@@ -34,7 +34,7 @@
 | 14 |  :heavy_check_mark:  | <a href="http://boj.kr/17413" target="_blank">단어 뒤집기 2</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> | <a href="https://haerang94.tistory.com/373">내 풀이</a> |
 | 15 |  :heavy_check_mark:  | <a href="http://boj.kr/2615" target="_blank">오목</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |                      |
 | 16 |  :heavy_check_mark:  | <a href="http://boj.kr/16926" target="_blank">배열 돌리기 1</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> | <a href="./../solution/implementation/16926">바로가기</a> |
-| 17 |  :heavy_check_mark:  | <a href="http://boj.kr/17276" target="_blank">배열 돌리기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
+| 17 |  :heavy_check_mark:  | <a href="http://boj.kr/17276" target="_blank">배열 돌리기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |         <a href="https://haerang94.tistory.com/389"> 내 풀이</a>               |
 | 18 |  :heavy_check_mark:  | <a href="http://boj.kr/15787" target="_blank">기차가 어둠을 헤치고 은하수를</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
 | 19 |  :heavy_check_mark:  | <a href="http://boj.kr/20207" target="_blank">달력</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
 | 20 |  :heavy_check_mark:  | <a href="http://boj.kr/20164" target="_blank">홀수 홀릭 호석</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
@@ -55,7 +55,7 @@
 | 35 |                      | <a href="http://boj.kr/2877" target="_blank">4와 7</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
 | 36 |                      | <a href="http://boj.kr/20327" target="_blank">배열 돌리기 6</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
 | 37 |                      | <a href="http://boj.kr/9081" target="_blank">단어 맞추기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
-| 38 |                      | <a href="http://boj.kr/17406" target="_blank">배열 돌리기 4</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |  <a href="https://haerang94.tistory.com/389"> 내 풀이</a>      |
+| 38 |                      | <a href="http://boj.kr/17406" target="_blank">배열 돌리기 4</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |      |
 | 39 |                      | <a href="http://boj.kr/1022" target="_blank">소용돌이 예쁘게 출력하기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |
 | 40 |                      | <a href="http://boj.kr/21277" target="_blank">짠돌이 호석</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> |                      |
 | 41 |                      | <a href="http://boj.kr/17470" target="_blank">배열 돌리기 5</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/15.svg"/> |                      |
