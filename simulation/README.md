@@ -24,7 +24,7 @@
 | 06 |  :heavy_check_mark:  | <a href="http://boj.kr/17135" target="_blank">캐슬 디펜스</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |
 | 07 |  :heavy_check_mark:  | <a href="http://boj.kr/17140" target="_blank">이차원 배열과 연산</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |
 | 08 |  :heavy_check_mark:  | <a href="http://boj.kr/17779" target="_blank">게리맨더링 2</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |
-| 09 |  :heavy_check_mark:  | <a href="http://boj.kr/19238" target="_blank">스타트 택시</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |
+| 09 |  :heavy_check_mark:  | <a href="http://boj.kr/19238" target="_blank">스타트 택시</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |     <a href="https://haerang94.tistory.com/392"> 내 풀이</a>        |
 | 10 |  :heavy_check_mark:  | <a href="http://boj.kr/20057" target="_blank">마법사 상어와 토네이도</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |                      |
 | 11 |  :heavy_check_mark:  | <a href="http://boj.kr/20058" target="_blank">마법사 상어와 파이어스톰</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |    <a href="https://haerang94.tistory.com/387?category=809716"> 내 풀이</a>                  |
 | 12 |  :heavy_check_mark:  | <a href="http://boj.kr/17822" target="_blank">원판 돌리기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> |                      |
