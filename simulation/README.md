@@ -29,9 +29,9 @@
 | 11 |  :heavy_check_mark:  | <a href="http://boj.kr/20058" target="_blank">마법사 상어와 파이어스톰</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/12.svg"/> |    <a href="https://haerang94.tistory.com/387?category=809716"> 내 풀이</a>                  |
 | 12 |  :heavy_check_mark:  | <a href="http://boj.kr/17822" target="_blank">원판 돌리기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> |                      |
 | 13 |  :heavy_check_mark:  | <a href="http://boj.kr/19236" target="_blank">청소년 상어</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> |     <a href="https://haerang94.tistory.com/388?category=809716"> 내 풀이</a>                 |
-| 14 |  :heavy_check_mark:  | <a href="http://boj.kr/19237" target="_blank">어른 상어</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> |                      |
+| 14 |  :heavy_check_mark:  | <a href="http://boj.kr/19237" target="_blank">어른 상어</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/13.svg"/> |     <a href="https://haerang94.tistory.com/398">내 풀이</a>      |
 | 15 |  :heavy_check_mark:  | <a href="http://boj.kr/17143" target="_blank">낚시왕</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> |    <a href="https://haerang94.tistory.com/396"> 내 풀이</a>                  |
-| 16 |  :heavy_check_mark:  | <a href="http://boj.kr/20061" target="_blank">모노미노도미노 2</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> |                      |
+| 16 |  :heavy_check_mark:  | <a href="http://boj.kr/20061" target="_blank">모노미노도미노 2</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> |   <a href="https://haerang94.tistory.com/399">내 풀이</a>      |
 | 17 |  :heavy_check_mark:  | <a href="http://boj.kr/20436" target="_blank">ZOAC 3</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/> |                      |
 | 18 |  :heavy_check_mark:  | <a href="http://boj.kr/5212" target="_blank">지구 온난화</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
 | 19 |  :heavy_check_mark:  | <a href="http://boj.kr/1713" target="_blank">후보 추천하기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
@@ -39,7 +39,7 @@
 | 21 |  :heavy_check_mark:  | <a href="http://boj.kr/14891" target="_blank">톱니바퀴</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
 | 22 |  :heavy_check_mark:  | <a href="http://boj.kr/15683" target="_blank">감시</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
 | 23 |  :heavy_check_mark:  | <a href="http://boj.kr/20165" target="_blank">인내의 도미노 장인 호석</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
-| 24 |  :heavy_check_mark:  | <a href="http://boj.kr/17837" target="_blank">새로운 게임 2</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> |                      |
+| 24 |  :heavy_check_mark:  | <a href="http://boj.kr/17837" target="_blank">새로운 게임 2</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> |       <a href="https://haerang94.tistory.com/405">내 풀이 </a>               |
 | 25 |                      | <a href="http://boj.kr/14594" target="_blank">동방 프로젝트 (Small)</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |                      |
 | 26 |                      | <a href="http://boj.kr/20665" target="_blank">독서실 거리두기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
 | 27 |                      | <a href="http://boj.kr/14503" target="_blank">로봇 청소기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
