@@ -39,7 +39,7 @@
 | 21 |  :heavy_check_mark:  | <a href="http://boj.kr/14891" target="_blank">톱니바퀴</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
 | 22 |  :heavy_check_mark:  | <a href="http://boj.kr/15683" target="_blank">감시</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
 | 23 |  :heavy_check_mark:  | <a href="http://boj.kr/20165" target="_blank">인내의 도미노 장인 호석</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
-| 24 |  :heavy_check_mark:  | <a href="http://boj.kr/17837" target="_blank">새로운 게임 2</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> |                      |
+| 24 |  :heavy_check_mark:  | <a href="http://boj.kr/17837" target="_blank">새로운 게임 2</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/14.svg"/> |       <a href="https://haerang94.tistory.com/405">내 풀이 </a>               |
 | 25 |                      | <a href="http://boj.kr/14594" target="_blank">동방 프로젝트 (Small)</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |                      |
 | 26 |                      | <a href="http://boj.kr/20665" target="_blank">독서실 거리두기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
 | 27 |                      | <a href="http://boj.kr/14503" target="_blank">로봇 청소기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
