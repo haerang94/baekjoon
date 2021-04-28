@@ -35,7 +35,7 @@
 | 15 |  :heavy_check_mark:  | <a href="http://boj.kr/2615" target="_blank">오목</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> |                      |
 | 16 |  :heavy_check_mark:  | <a href="http://boj.kr/16926" target="_blank">배열 돌리기 1</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/8.svg"/> | <a href="./../solution/implementation/16926">바로가기</a> |
 | 17 |  :heavy_check_mark:  | <a href="http://boj.kr/17276" target="_blank">배열 돌리기</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |         <a href="https://haerang94.tistory.com/389"> 내 풀이</a>               |
-| 18 |  :heavy_check_mark:  | <a href="http://boj.kr/15787" target="_blank">기차가 어둠을 헤치고 은하수를</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |                      |
+| 18 |  :heavy_check_mark:  | <a href="http://boj.kr/15787" target="_blank">기차가 어둠을 헤치고 은하수를</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/9.svg"/> |    <a href="https://haerang94.tistory.com/428" > 내 풀이</a>                  |
 | 19 |  :heavy_check_mark:  | <a href="http://boj.kr/20207" target="_blank">달력</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/10.svg"/> |                      |
 | 20 |  :heavy_check_mark:  | <a href="http://boj.kr/20164" target="_blank">홀수 홀릭 호석</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
 | 21 |  :heavy_check_mark:  | <a href="http://boj.kr/14719" target="_blank">빗물</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/11.svg"/> |                      |
