@@ -22,7 +22,7 @@
 | 02 |  :heavy_check_mark:  | <a href="http://boj.kr/20053" target="_blank">최소, 최대 2</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | <a href="3">바로가기</a> |
 | 03 |  :heavy_check_mark:  | <a href="http://boj.kr/5597" target="_blank">과제 안 내신 분..?</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/4.svg"/> | <a href="">바로가기</a> |
 | 04 |  :heavy_check_mark:  | <a href="http://boj.kr/20546" target="_blank">🐜 기적의 매매법 🐜</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/4.svg"/> | <a href="">바로가기</a> |
-| 05 |  :heavy_check_mark:  | <a href="http://boj.kr/1913" target="_blank">달팽이</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> | <a href="">바로가기</a> |
+| 05 |  :heavy_check_mark:  | <a href="http://boj.kr/1913" target="_blank">달팽이</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> | <a href="https://haerang94.tistory.com/430">내 풀이</a> |
 | 06 |  :heavy_check_mark:  | <a href="http://boj.kr/14467" target="_blank">소가 길을 건너간 이유 1</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> | <a href="">바로가기</a> |
 | 07 |  :heavy_check_mark:  | <a href="http://boj.kr/12933" target="_blank">오리</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> | <a href="">바로가기</a> |
 | 08 |  :heavy_check_mark:  | <a href="http://boj.kr/2578" target="_blank">빙고</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> | <a href="./../solution/implementation/2578">바로가기</a> |
